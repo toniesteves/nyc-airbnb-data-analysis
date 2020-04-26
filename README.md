@@ -1,6 +1,7 @@
 # Um projeto "end-to-end" de Machine Learning em dados do Airbnb.
 
 O Airbnb é uma plataforma que fornece e orienta a oportunidade de vincular dois grupos - Anfitriões e Convidados. Qualquer pessoa com uma sala aberta ou espaço livre pode fornecer serviços no Airbnb à comunidade global. É uma boa maneira de conseguir uma renda extra com o mínimo esforço, além de ser uma maneira fácil de anunciar espaço, porque a plataforma possui tráfego e uma base global de usuários para apoiá-lo. O Airbnb oferece aos anfitriões uma maneira fácil de monetizar um espaço que seria desperdiçado.
+
 Por outro lado, temos hóspedes com necessidades muito específicas - alguns podem estar procurando acomodações acessíveis perto das atrações da cidade, enquanto outros desejam  um apartamento luxuoso à beira-mar. Eles podem ser grupos, famílias ou indivíduos locais e estrangeiros. Após cada visita, os hóspedes têm a oportunidade de avaliar e ficar com seus comentários. Tentaremos descobrir o que contribui para a popularidade da listagem e prever se ela poderá se tornar uma das 100 acomodações mais revisadas com base em seus atributos.
 
 ## Dependências
